@@ -19,6 +19,3 @@ Various values were also stored in a file, like the speed and position of each c
 
 Unity could communicate with the real-life cars, and thus when an instruction was sent, the virtual counterpart would move accordingly, mirroring the movement and position of each other.
 (Video demonstration: https://github.com/user-attachments/assets/5edfaae9-3c08-4831-a9be-b3f1f6033139)
-<img width="1563" height="881" alt="image" src="https://github.com/user-attachments/assets/fb712f07-2200-4a31-b790-70d0174b651d" />
-https://github.com/user-attachments/assets/5edfaae9-3c08-4831-a9be-b3f1f6033139
-
